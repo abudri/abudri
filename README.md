@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abudri
 - 👀 I’m interested in all things Ruby, Rails and learning in general.
 - 🌱 I’m currently learning and building infrastructure with Terraform and New Relic.
-- 💞️ I’m looking to collaborate on open source projects as able in between work and learning. I love Ruby for Good.
+- 💞️ I’m looking to collaborate on open source projects, as able, in between work and learning. I love Ruby for Good.
 - 📫 How to reach me: Here on Github
 
 <!---
