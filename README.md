@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abudri
-- 👀 I’m interested in all things Ruby, Rails, Terraform, and learning in general.
-- 🌱 I’m currently learning about and professionally building infrastructure used by millions with Terraform, AWS, Docker, Jenkins and monitoring with New Relic.
+- 👀 I’m interested in all things Ruby, Rails, Terraform, AWS and learning in general.
+- 🌱 I’m currently professionally building out infrastructure used by millions, using Terraform, AWS, Docker, Jenkins and monitoring with New Relic.
 - 💞️ I’m looking to collaborate on open source projects, as able, in between work and learning. I love Ruby for Good.
 - 📫 How to reach me: Here on Github
 
